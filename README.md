@@ -17,13 +17,13 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaolapas&bg_color=0d1117&color=25f833&line=25f833&point=1b9e24&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
   
  ### Skills:
-![badge](https://img.shields.io/badge/HTML-5-orange.svg)![badge](https://img.shields.io/badge/CSS-3-blue.svg)![badge](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)![badge](https://img.shields.io/badge/React-17.0-blue.svg)![badge](https://img.shields.io/badge/Zustand-3.5-green.svg)![badge](https://img.shields.io/badge/Jest-27.4-red.svg)![badge](https://img.shields.io/badge/MongoDB-4.4-green.svg)
+![badge](https://img.shields.io/badge/HTML-5-orange.svg) ![badge](https://img.shields.io/badge/CSS-3-blue.svg) ![badge](https://img.shields.io/badge/JavaScript-ES6-yellow.svg) ![badge](https://img.shields.io/badge/React-17.0-blue.svg) ![badge](https://img.shields.io/badge/Zustand-3.5-green.svg) ![badge](https://img.shields.io/badge/Sass-1.43.4-pink.svg) ![badge](https://img.shields.io/badge/Styled%20Components-5.3.3-pink.svg) ![badge](https://img.shields.io/badge/Jest-27.4-red.svg) ![badge](https://img.shields.io/badge/MongoDB-4.4-green.svg)
 
 
  
   ### Study in the future:
 
-![badge](https://img.shields.io/badge/Node.js-14.17.6-green.svg)![badge](https://img.shields.io/badge/Next.js-11.1.2-black.svg)![badge](https://img.shields.io/badge/Express.js-4.17.1-blue.svg)![badge](https://img.shields.io/badge/TypeScript-4.4-blue.svg)
+![badge](https://img.shields.io/badge/Node.js-14.17.6-green.svg) ![badge](https://img.shields.io/badge/Next.js-11.1.2-black.svg) ![badge](https://img.shields.io/badge/Express.js-4.17.1-blue.svg) ![badge](https://img.shields.io/badge/TypeScript-4.4-blue.svg)
 
 
 
